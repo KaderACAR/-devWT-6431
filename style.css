@@ -1,0 +1,18 @@
+
+.h1{
+    text-align: center;
+}
+
+
+.btn{
+    color: #132a13;
+    border-color: #132a13;
+    text-align: center;
+}
+.btn:hover{
+    color: white;
+    background-color: #132a13;
+}
+.mail-i{
+    background-color: #90a955;
+}
